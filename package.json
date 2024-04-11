@@ -1,6 +1,6 @@
 {
   "name": "greetwjwcan10482",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple npm package to greet people.",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "wangjin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjwcan10482/greetwjwcan10482.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wjwcan10482/greetwjwcan10482/issues"
+  },
+  "homepage": "https://github.com/wjwcan10482/greetwjwcan10482#readme"
 }
