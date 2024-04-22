@@ -1,6 +1,6 @@
 {
   "name": "greetwjwcan10482",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple npm package to greet people.",
   "main": "index.js",
   "scripts": {

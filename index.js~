@@ -1,0 +1,14 @@
+// index.js
+module.exports = function greet(name) {
+   return `Hello, ${name}!`;
+};
+
+const readline = require('readline').createInterface({
+	  input: process.stdin,
+	  output: process.stdout
+});
+
+readline.question('你叫什么名字？', name => {
+	  console.log(`你好，${name}! 很高兴见到你。`);
+	  readline.close();
+});
